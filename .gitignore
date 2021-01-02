@@ -1,10 +1,7 @@
-
-## RStudio files
-.Rproj.user
-
-## History
-.Rhistory
-
-## data directories and files
-.RData
-.Ruserdata
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+notebooks/.ipynb_checkpoints
+__pycache__
+examples/NYC/NYC_data/DTM_Condo_Units.dbf
+examples/NYC/NYC_data/NYC-Tax-Parcels-Centroid-Points-SHP
